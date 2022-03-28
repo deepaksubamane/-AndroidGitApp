@@ -12,7 +12,7 @@ import com.example.androidgitapp.databinding.FragmentFirstBinding
  * A simple [Fragment] subclass as the default destination in the navigation.
  */
 class FirstFragment : Fragment() {
-
+// Added comment here 
     private var _binding: FragmentFirstBinding? = null
 
     // This property is only valid between onCreateView and
